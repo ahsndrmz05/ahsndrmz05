@@ -18,6 +18,4 @@ I'm studying CS in Abdullah Gül University (2023-2028).  I'm into coding and cr
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahsndrmz05&show_icons=true&count_private=true&theme=radical" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsndrmz05&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahsndrmz05&show_icons=true&count_private=true&theme=radical" alt="GitHub İstatistikleri" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsndrmz05&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
